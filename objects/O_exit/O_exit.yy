@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"O_Pick_Vertical",
+  "%Name":"O_exit",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Pick_Vertical",
+  "name":"O_exit",
   "overriddenProperties":[],
   "parent":{
     "name":" Objects",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Pick",
-    "path":"sprites/S_Pick/S_Pick.yy",
+    "name":"S_Exit",
+    "path":"sprites/S_Exit/S_Exit.yy",
   },
   "spriteMaskId":null,
   "visible":true,

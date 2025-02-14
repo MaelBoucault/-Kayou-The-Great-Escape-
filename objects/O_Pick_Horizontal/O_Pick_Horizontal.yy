@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Pick",
-    "path":"sprites/Pick/Pick.yy",
+    "name":"S_Pick",
+    "path":"sprites/S_Pick/S_Pick.yy",
   },
   "spriteMaskId":null,
   "visible":true,
