@@ -1,0 +1,1 @@
+img = draw_sprite(S_FallPlatforme, 0, x, y);
